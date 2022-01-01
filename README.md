@@ -1,2 +1,2 @@
 # Crypto-Currency-Analysis-
-Analysis of BTC,LTC,and ETH to find correlation in price movement. 
+Analyzing Bitcoin, Litecoin, and Ethereum crypto currencies from the middle of 2016 to 2019. The project aims to see if the percentage moves in the prices are correlated. Through the use of matplotlib and seaborn a lot of the similarities in price movements can be visualized and depicted with accuracy. The project utilizes techniques like data cleaning, concacitating and organizing big data, and graphing using matplotlib and seaborn. 
